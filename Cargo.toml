@@ -1,0 +1,13 @@
+[package]
+edition = "2021"
+license = "MIT"
+name    = "rust-starter"
+version = "0.0.0"
+
+[dependencies]
+
+[dev-dependencies]
+rusty-hook = "^0.11.2"
+
+[package.metadata.cargo-shear]
+ignored = ["rusty-hook"]

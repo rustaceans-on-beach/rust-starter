@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "nefrob.vscode-just-syntax",
+    "dustypomerleau.rust-syntax",
+    "rust-lang.rust-analyzer",
+    "hdevalke.rust-test-lens"
+  ]
+}

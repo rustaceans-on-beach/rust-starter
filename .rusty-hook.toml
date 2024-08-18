@@ -1,0 +1,5 @@
+[hooks]
+pre-commit = "just precommit"
+
+[logging]
+verbose = true
