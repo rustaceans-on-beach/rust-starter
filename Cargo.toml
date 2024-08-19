@@ -1,8 +1,9 @@
 [package]
-edition = "2021"
-license = "MIT"
-name    = "rust-starter"
-version = "0.0.0"
+edition    = "2021"
+license    = "MIT"
+name       = "rust-starter"
+repository = "https://github.com/rustaceans-on-beach/rust-starter"
+version    = "0.0.0"
 
 [dependencies]
 
