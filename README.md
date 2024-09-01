@@ -13,3 +13,7 @@ A template for starting new Rust projects.
 - [cargo-shear](https://github.com/Boshen/cargo-shear) - Check unused dependencies
 - [taplo](https://github.com/tamasfe/taplo) - Toml formatter
 - [cargo-nextest](https://github.com/nextest-rs/nextest) - Test runner
+
+``` sh
+cargo install just typos-cli taplo-cli cargo-shear cargo-nextest
+```
