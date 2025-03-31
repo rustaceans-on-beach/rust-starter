@@ -1,0 +1,10 @@
+{
+  "[rust]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    },
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  }
+}

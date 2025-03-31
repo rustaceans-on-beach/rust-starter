@@ -6,7 +6,7 @@ _default:
 
 setup:
   @rusty-hook init
-  @echo "Seup complete ✅"
+  @echo "Setup complete ✅"
 
 precommit:
   cargo check
